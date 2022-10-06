@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/emonmr/lib#readme",
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@emonmr:registry": "https://npm.pkg.github.com"
   }
 }
