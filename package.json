@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/emonmr/lib/issues"
   },
-  "homepage": "https://github.com/emonmr/lib#readme"
+  "homepage": "https://github.com/emonmr/lib#readme",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
