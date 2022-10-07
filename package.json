@@ -1,5 +1,5 @@
 {
-  "name": "awesome-library",
+  "name": "@emonmr/awesome-library",
   "version": "1.0.0",
   "description": "This is my first library for github",
   "main": "index.js",
