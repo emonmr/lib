@@ -16,10 +16,10 @@
     "url": "https://github.com/emonmr/lib/issues"
   },
   "homepage": "https://github.com/emonmr/lib#readme",
-  "publishConfig": {
-    "@emonmr:registry": "https://npm.pkg.github.com"
-  },
   "devDependencies": {
     "mocha": "^10.0.0"
+  },
+  "publishConfig": {
+    "@emonmr:registry": "https://npm.pkg.github.com"
   }
 }
